@@ -1,4 +1,4 @@
-url=jdbc\:mysql\://21.3.4.5\:3306/auth
+url=jdbc\:mysql\://192.168.142.1\:3306/auth
 driverClass=com.mysql.jdbc.Driver
 userid=root
 password2=123456
